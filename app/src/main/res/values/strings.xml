@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TD Cat</string>
+    <string name="btn_cat_txt">SHOW CAT</string>
+    <string name="img_cat_txt">image</string>
+</resources>
